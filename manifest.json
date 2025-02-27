@@ -1,0 +1,18 @@
+{
+    "name": "test pwa",
+    "short_name": "tp",
+    "display": "browser",
+    "icons": [
+        {
+            "src": "assets/ico.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/ico.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "prefer_related_applications": false
+}
